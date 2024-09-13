@@ -1,4 +1,4 @@
-# Todo-List-v2
+# Todo-List
 
 Website Link: https://yashambade.github.io/ToDo-List/
 
